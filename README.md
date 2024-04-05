@@ -22,3 +22,7 @@ Animals, forming the kingdom Animalia, are a diverse group of living organisms t
 
 
 ---
+
+<img src="./image/animal4.jpeg" width="200" height="100">
+
+[Read about Dog](Dog.md)
