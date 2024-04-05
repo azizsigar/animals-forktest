@@ -16,13 +16,13 @@ Animals, forming the kingdom Animalia, are a diverse group of living organisms t
 
 ---
 
-<img src="./image/animal3.jpg" width="200" height="100">
+<img src="./image/animal1.jpg" width="200" height="300">
 
 [Read about Giraffe](Giraffe.md)
 
 
 ---
 
-<img src="./image/animal4.jpeg" width="200" height="100">
+<img src="./image/animal4.jpeg" width="200" height="150">
 
 [Read about Dog](Dog.md)
